@@ -1,2 +1,1 @@
-# emilymdubois.github.io
-🍦 Thoughtsicles
+# emilymdubois.com
