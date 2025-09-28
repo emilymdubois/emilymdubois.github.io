@@ -17,6 +17,7 @@
     "@11ty/eleventy": "^3.1.2"
   },
   "scripts": {
+    "build": "npx @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve"
   }
 }
