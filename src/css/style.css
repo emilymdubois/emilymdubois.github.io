@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+header, main, footer {
+  max-width: 720px;
+  margin: auto;
+  padding: 1rem 2rem;
+}
