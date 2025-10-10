@@ -3,7 +3,20 @@ body {
 }
 
 header, main, footer {
-  max-width: 720px;
+  max-width: 640px;
   margin: auto;
   padding: 1rem 2rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.callout {
+  padding: 1rem;
+  background-color: #ffffe0;
+  border: 1px solid #FFE87C;
+  border-radius: 4px;
+  text-align: center;
 }
