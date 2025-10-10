@@ -7,9 +7,7 @@
   <title>{{ title }}</title>
 </head>
 <body>
-  <header>
-    <h1>{{ title }}</h1>
-  </header>
+  {% include "partials/header.njk" %}
   <main>
     {{ content | safe }}
   </main>
