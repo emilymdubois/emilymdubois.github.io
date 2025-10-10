@@ -4,7 +4,6 @@ date: 2025-10-10
 categories: ["gardening"]
 tags: post
 layout: base.njk
-url: 
 ---
 
 {{ date | date: '%B %e, %Y' }}
