@@ -8,15 +8,17 @@ header, main, footer {
   padding: 1rem 2rem;
 }
 
+a {
+  color: var(--font-color);
+  text-decoration-style: dotted;
+}
+
 img {
   max-width: 100%;
   height: auto;
 }
 
-.callout {
-  padding: 1rem;
-  background-color: #ffffe0;
-  border: 1px solid #FFE87C;
-  border-radius: 4px;
-  text-align: center;
+.header-title {
+  color: var(--font-color);
+  text-decoration: none;
 }
